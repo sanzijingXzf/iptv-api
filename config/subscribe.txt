@@ -5,7 +5,7 @@
 # 引用自有数据
 https://iptvszj.sanzijing.us.kg/txt
 https://gh.llkk.cc/https://raw.githubusercontent.com/sanzijingXzf/IPTV/refs/heads/main/live.txt
-https://gh.llkk.cc/https://raw.githubusercontent.com/sanzijingXzf/iptv-api/refs/heads/master/config/mix.m3u
+#https://gh.llkk.cc/https://raw.githubusercontent.com/sanzijingXzf/iptv-api/refs/heads/master/config/mix.m3u
 # -----------------------------------------------------------------------------------------------------------
 https://gh.llkk.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
