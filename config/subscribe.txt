@@ -3,8 +3,8 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://gh.llkk.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://gh.llkk.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+#https://gh.llkk.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+#https://gh.llkk.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 # 引用自有数据
 #https://gh.llkk.cc/https://raw.githubusercontent.com/sanzijingXzf/IPTV/refs/heads/main/live.txt
 #https://gh.llkk.cc/https://raw.githubusercontent.com/sanzijingXzf/iptv-api/refs/heads/master/config/mix.m3u
