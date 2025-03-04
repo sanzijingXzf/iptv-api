@@ -4,11 +4,8 @@
 
 https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://gh.llkk.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-# 引用自有数据
 https://gh.llkk.cc/https://raw.githubusercontent.com/sanzijingXzf/IPTV/refs/heads/main/live.txt
 https://gh.llkk.cc/https://raw.githubusercontent.com/sanzijingXzf/iptv-api/refs/heads/master/config/mix.m3u
-https://iptvszj.sanzijing.us.kg/txt
-# -----------------------------------------------------------------------------------------------------------
 https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
 https://aktv.top/live.txt
@@ -16,6 +13,8 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套�
 https://gh.llkk.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://gh.llkk.cc/https://github.com/vbskycn/iptv/blob/master/tv/iptv4.m3u
 https://gh.llkk.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u
+
+
 #https://gh.llkk.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 #https://gh.llkk.cc/https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u
 #https://live.fanmingming.com/tv/m3u/ipv6.m3u
