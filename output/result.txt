@@ -1,79 +1,114 @@
 🕘️更新时间,#genre#
-2025-05-08 18:35:20,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+2025-05-09 06:27:52,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$订阅源
 
 📺央视频道,#genre#
-CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=45fad6&tk=6949f8ce7202
-CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8071d9&tk=6949f8ce7202
-CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
-CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7d7454&tk=6949f8ce7202
-CCTV-3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
-CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b9dceb&tk=6949f8ce7202
-CCTV-4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
-CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=959493&tk=6949f8ce7202
-CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
-CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e71be8&tk=6949f8ce7202
-CCTV-5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
-CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=786be5&tk=6949f8ce7202
-CCTV-6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
-CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV-7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4a1d15&tk=6949f8ce7202
-CCTV-8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ba7bb6&tk=6949f8ce7202
-CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
-CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
-CCTV-9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9526ad&tk=6949f8ce7202
-CCTV-10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=09db5d&tk=6949f8ce7202
-CCTV-10,http://nctv.top/IDOEPpiryt/migu.php?id=cctv10
-CCTV-11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4d0615&tk=6949f8ce7202
-CCTV-11,http://nctv.top/IDOEPpiryt/migu.php?id=cctv11
-CCTV-12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3c980e&tk=6949f8ce7202
-CCTV-12,http://nctv.top/IDOEPpiryt/migu.php?id=cctv12
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bfe383&tk=6949f8ce7202
-CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a4aca&tk=6949f8ce7202
-CCTV-14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
-CCTV-15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0ee2a7&tk=6949f8ce7202
-CCTV-15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
-CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=dd9d4f&tk=6949f8ce7202
-CCTV-16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16
-CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfb0d&tk=6949f8ce7202
-CCTV-17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
+CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$订阅源
+CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8$订阅源
+CCTV-1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8$订阅源
+CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8$订阅源
+CCTV-2,http://112.46.105.20:8009/hls/502/index.m3u8$订阅源
+CCTV-2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2$订阅源
+CCTV-3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8$订阅源
+CCTV-3,http://112.46.105.20:8009/hls/3/index.m3u8$订阅源
+CCTV-3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3$订阅源
+CCTV-4,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8$订阅源
+CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8$订阅源
+CCTV-4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o$订阅源
+CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8$订阅源
+CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8$订阅源
+CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8$订阅源
+CCTV-5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p$订阅源
+CCTV-5+,http://tvbox6.icu/tv/migu.php?id=cctv5p$订阅源
+CCTV-6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8$订阅源
+CCTV-6,http://112.46.105.20:8009/hls/6/index.m3u8$订阅源
+CCTV-6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6$订阅源
+CCTV-7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8$订阅源
+CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF$订阅源
+CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF$订阅源
+CCTV-8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8$订阅源
+CCTV-8,http://112.46.105.20:8009/hls/8/index.m3u8$订阅源
+CCTV-8,http://nctv.top/IDOEPpiryt/migu.php?id=cctv8$订阅源
+CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8$订阅源
+CCTV-9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8$订阅源
+CCTV-9,http://112.46.105.20:8009/hls/509/index.m3u8$订阅源
+CCTV-10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8$订阅源
+CCTV-10,http://112.46.105.20:8009/hls/506/index.m3u8$订阅源
+CCTV-10,http://nctv.top/IDOEPpiryt/migu.php?id=cctv10$订阅源
+CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8$订阅源
+CCTV-11,http://nctv.top/IDOEPpiryt/migu.php?id=cctv11$订阅源
+CCTV-11,http://tvbox6.icu/tv/migu.php?id=cctv11$订阅源
+CCTV-12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8$订阅源
+CCTV-12,http://112.46.105.20:8009/hls/507/index.m3u8$订阅源
+CCTV-12,http://nctv.top/IDOEPpiryt/migu.php?id=cctv12$订阅源
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+CCTV-13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8$订阅源
+CCTV-13,http://nctv.top/IDOEPpiryt/migu.php?id=cctv13$订阅源
+CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8$订阅源
+CCTV-14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14$订阅源
+CCTV-14,http://tvbox6.icu/tv/migu.php?id=cctv14$订阅源
+CCTV-15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8$订阅源
+CCTV-15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15$订阅源
+CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15$订阅源
+CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8$订阅源
+CCTV-16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16$订阅源
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=dd9d4f&tk=6949f8ce7202$订阅源
+CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8$订阅源
+CCTV-17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17$订阅源
+CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源
 
 📺央视频道备用,#genre#
-CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-CCTV1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=45fad6&tk=6949f8ce7202
-CCTV2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8071d9&tk=6949f8ce7202
-CCTV2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
-CCTV3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7d7454&tk=6949f8ce7202
-CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
-CCTV4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b9dceb&tk=6949f8ce7202
-CCTV4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
-CCTV5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=959493&tk=6949f8ce7202
-CCTV5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
-CCTV6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=786be5&tk=6949f8ce7202
-CCTV6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
-CCTV7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4a1d15&tk=6949f8ce7202
-CCTV8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ba7bb6&tk=6949f8ce7202
-CCTV8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
-CCTV9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
-CCTV9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9526ad&tk=6949f8ce7202
-CCTV10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=09db5d&tk=6949f8ce7202
-CCTV10,http://nctv.top/IDOEPpiryt/migu.php?id=cctv10
-CCTV11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4d0615&tk=6949f8ce7202
-CCTV11,http://nctv.top/IDOEPpiryt/migu.php?id=cctv11
-CCTV12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3c980e&tk=6949f8ce7202
-CCTV12,http://nctv.top/IDOEPpiryt/migu.php?id=cctv12
-CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV13,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bfe383&tk=6949f8ce7202
-CCTV14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a4aca&tk=6949f8ce7202
-CCTV14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
-CCTV15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0ee2a7&tk=6949f8ce7202
-CCTV15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
-CCTV16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=dd9d4f&tk=6949f8ce7202
-CCTV16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16
-CCTV17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfb0d&tk=6949f8ce7202
-CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
+CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$订阅源
+CCTV1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8$订阅源
+CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8$订阅源
+CCTV2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8$订阅源
+CCTV2,http://112.46.105.20:8009/hls/502/index.m3u8$订阅源
+CCTV2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2$订阅源
+CCTV3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8$订阅源
+CCTV3,http://112.46.105.20:8009/hls/3/index.m3u8$订阅源
+CCTV3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3$订阅源
+CCTV4,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8$订阅源
+CCTV4,http://112.46.105.20:8009/hls/4/index.m3u8$订阅源
+CCTV4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o$订阅源
+CCTV5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8$订阅源
+CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8$订阅源
+CCTV5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+CCTV6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8$订阅源
+CCTV6,http://112.46.105.20:8009/hls/6/index.m3u8$订阅源
+CCTV6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6$订阅源
+CCTV7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8$订阅源
+CCTV7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF$订阅源
+CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF$订阅源
+CCTV8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8$订阅源
+CCTV8,http://112.46.105.20:8009/hls/8/index.m3u8$订阅源
+CCTV8,http://nctv.top/IDOEPpiryt/migu.php?id=cctv8$订阅源
+CCTV9,http://t.live.cntv.cn/m3u8/cctv400.m3u8$订阅源
+CCTV9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8$订阅源
+CCTV9,http://112.46.105.20:8009/hls/509/index.m3u8$订阅源
+CCTV10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8$订阅源
+CCTV10,http://112.46.105.20:8009/hls/506/index.m3u8$订阅源
+CCTV10,http://nctv.top/IDOEPpiryt/migu.php?id=cctv10$订阅源
+CCTV11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8$订阅源
+CCTV11,http://nctv.top/IDOEPpiryt/migu.php?id=cctv11$订阅源
+CCTV11,http://tvbox6.icu/tv/migu.php?id=cctv11$订阅源
+CCTV12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8$订阅源
+CCTV12,http://112.46.105.20:8009/hls/507/index.m3u8$订阅源
+CCTV12,http://nctv.top/IDOEPpiryt/migu.php?id=cctv12$订阅源
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+CCTV13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8$订阅源
+CCTV13,http://nctv.top/IDOEPpiryt/migu.php?id=cctv13$订阅源
+CCTV14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8$订阅源
+CCTV14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14$订阅源
+CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14$订阅源
+CCTV15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8$订阅源
+CCTV15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15$订阅源
+CCTV15,http://tvbox6.icu/tv/migu.php?id=cctv15$订阅源
+CCTV16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8$订阅源
+CCTV16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16$订阅源
+CCTV16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=dd9d4f&tk=6949f8ce7202$订阅源
+CCTV17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8$订阅源
+CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17$订阅源
+CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源
 
 💰央视付费频道,#genre#
 
@@ -82,10 +117,12 @@ CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=959493&tk=6949f8ce7202
-CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
-CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e71be8&tk=6949f8ce7202
-CCTV-5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
+CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8$订阅源
+CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8$订阅源
+CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8$订阅源
+CCTV-5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p$订阅源
+CCTV-5+,http://tvbox6.icu/tv/migu.php?id=cctv5p$订阅源
 
 🪁动画频道,#genre#
 
@@ -94,8 +131,9 @@ CCTV-5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0ee2a7&tk=6949f8ce7202
-CCTV-15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
+CCTV-15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8$订阅源
+CCTV-15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15$订阅源
+CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15$订阅源
 
 🏛经典剧场轮播,#genre#
 
@@ -106,3 +144,501 @@ CCTV-15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
 🌍国外节目,#genre#
 
 🎵音乐节目,#genre#
+
+🈳无结果频道,#genre#
+CCTV+ 1 (600p) [Not 24/7],url
+CCTV+ 2 (600p) [Not 24/7],url
+纪实科教8K,url
+CCTV-1 综合,url
+CCTV-2 财经,url
+CCTV-3 综艺,url
+CCTV-4 中文国际,url
+CCTV-5 体育,url
+CCTV-5+ 体育赛事,url
+CCTV-6 电影,url
+CCTV-7 国防军事,url
+CCTV-8 电视剧,url
+CCTV-9 纪录,url
+CCTV-10 科教,url
+CCTV-11 戏曲,url
+CCTV-12 社会与法,url
+CCTV-13 新闻,url
+CCTV-14 少儿,url
+CCTV-15 音乐,url
+CCTV-17 农业农村,url
+CCTV4K,url
+CCTV8K,url
+CCTV风云足球,url
+CCTV世界地理,url
+CCTV老故事,url
+CCTV发现之旅,url
+CCTV中学生,url
+CGTN法语,url
+CGTN西语,url
+CCTV第一剧场,url
+CCTV央视台球,url
+CCTV女性时尚,url
+CCTV怀旧剧场,url
+CCTV文化精品,url
+欢笑剧场4K,url
+文化精品,url
+央视台球,url
+风云音乐,url
+第一剧场,url
+风云剧场,url
+怀旧剧场,url
+女性时尚,url
+高尔夫网球,url
+风云足球,url
+电视指南,url
+世界地理,url
+兵器科技,url
+广东卫视,url
+香港卫视,url
+浙江卫视,url
+湖南卫视,url
+北京卫视,url
+湖北卫视,url
+黑龙江卫视,url
+安徽卫视,url
+重庆卫视,url
+东方卫视,url
+东南卫视,url
+甘肃卫视,url
+广西卫视,url
+贵州卫视,url
+海南卫视,url
+河北卫视,url
+河南卫视,url
+吉林卫视,url
+江苏卫视,url
+江西卫视,url
+辽宁卫视,url
+内蒙古卫视,url
+宁夏卫视,url
+青海卫视,url
+山东卫视,url
+山西卫视,url
+陕西卫视,url
+四川卫视,url
+深圳卫视,url
+三沙卫视,url
+天津卫视,url
+西藏卫视,url
+新疆卫视,url
+云南卫视,url
+CHC家庭影院,url
+CHC动作电影,url
+CHC高清电影,url
+北京影院,url
+东方影视,url
+广州影视,url
+杭州影视,url
+湖南电影,url
+湖北影视,url
+滨海影院,url
+福州影院,url
+欢笑剧场,url
+淘剧场,url
+淘娱乐,url
+淘电影,url
+NewTV惊悚悬疑,url
+NewTV动作电影,url
+黑莓电影,url
+纬来电影,url
+靖天映画,url
+靖天戏剧,url
+星卫娱乐,url
+艾尔达娱乐,url
+经典电影,url
+IPTV经典电影,url
+天映经典,url
+无线星河,url
+星空卫视,url
+私人影院,url
+东森电影,url
+龙祥电影,url
+东森洋片,url
+东森超视,url
+AMC电影,url
+AMC电影台,url
+龙华电影,url
+靖天电影,url
+广东体育,url
+纬来体育,url
+五星体育,url
+体育赛事,url
+劲爆体育,url
+爱体育,url
+超级体育,url
+精品体育,url
+广州竞赛,url
+深圳体育,url
+福建体育,url
+辽宁体育,url
+山东体育,url
+成都体育,url
+天津体育,url
+江苏体育,url
+安徽综艺体育,url
+吉林篮球,url
+睛彩篮球,url
+睛彩羽毛球,url
+睛彩广场舞,url
+风云足球,url
+足球频道,url
+魅力足球,url
+天元围棋,url
+快乐垂钓,url
+JJ斗地主,url
+少儿动画,url
+卡酷动画,url
+动漫秀场,url
+新动漫,url
+青春动漫,url
+爱动漫,url
+中录动漫,url
+宝宝动画,url
+CN卡通,url
+优漫卡通,url
+金鹰卡通,url
+睛彩少儿,url
+黑莓动画,url
+炫动卡通,url
+24H国漫热播,url
+七龙珠,url
+火影忍者,url
+海绵宝宝,url
+中华小当家,url
+斗破苍穹玄幻剧,url
+猫和老鼠,url
+经典动漫,url
+蜡笔小新,url
+漫画解说,url
+TVB无线新闻,url
+TVB无线星河,url
+TVB娱乐新闻,url
+TVB翡翠台,url
+TVB翡翠台（备用）,url
+TVB明珠台,url
+TVB J2,url
+TVB翡翠剧集,url
+TVB无线华丽,url
+TVB无线功夫,url
+TVB星河,url
+TVB千禧经典,url
+TVB明珠剧集,url
+TVB黄金翡翠,url
+TVB Plus,url
+翡翠台,url
+明珠台,url
+凤凰中文,url
+凤凰资讯,url
+凤凰香港,url
+凤凰卫视,url
+TVBS亚洲,url
+香港卫视,url
+纬来体育,url
+纬来育乐,url
+J2,url
+Viutv,url
+三立台湾,url
+无线新闻,url
+三立新闻,url
+东森综合,url
+东森超视,url
+东森电影,url
+Now剧集,url
+Now华剧,url
+靖天资讯,url
+星卫娱乐,url
+卫视卡式,url
+环球电视,url
+中视,url
+台视,url
+民视,url
+华视,url
+台视新闻,url
+中天新闻,url
+华视新闻,url
+游戏风云,url
+游戏竞技,url
+电竞游戏,url
+海看电竞,url
+电竞天堂,url
+爱电竞,url
+哒啵电竞,url
+睛彩竞技,url
+风云音乐,url
+音乐现场,url
+音乐之声,url
+潮流音乐,url
+天津音乐,url
+音乐广播,url
+音乐调频广播,url
+笑傲江湖,url
+天龙八部,url
+鹿鼎记,url
+仙剑奇侠传,url
+西游记,url
+三国演义,url
+新三国,url
+亮剑,url
+水浒传,url
+新白娘子传奇,url
+倚天屠龙记,url
+济公游记,url
+封神榜,url
+康熙王朝,url
+康熙微服私访记,url
+新水浒传,url
+闯关东,url
+上海滩,url
+射雕英雄传,url
+爱情公寓,url
+铁齿铜牙纪晓岚,url
+小猪佩奇,url
+哆啦A梦,url
+延禧攻略,url
+神探狄仁杰第一部,url
+神探狄仁杰第三部,url
+欢乐颂,url
+特种兵之火凤凰,url
+士兵突击,url
+神雕侠侣,url
+陈情令,url
+庆余年,url
+伪装者,url
+西游记续集,url
+乌龙闯情关,url
+永夜星河,url
+柳舟计,url
+大秦赋,url
+唐诡之西行,url
+玫瑰的故事,url
+梦中的那片海,url
+楚汉骄雄,url
+西游记1,url
+西游记2,url
+寻秦记,url
+大唐双龙传,url
+刑事侦缉档案,url
+法政先锋,url
+洗冤录,url
+陀枪师姐,url
+使徒行者,url
+鉴证实录,url
+金枝欲孽,url
+扫黄先锋,url
+创世纪,url
+妙手仁心,url
+大时代,url
+野蛮亲家,url
+大爱1,url
+大爱2,url
+🎦父母爱情🐝,url
+我的前半生,url
+狂飙,url
+情满四合院,url
+花千骨,url
+知否知否应是绿肥红瘦,url
+钟馗传说,url
+宰相刘罗锅,url
+神医喜来乐,url
+来自星星的你,url
+83射雕英雄传,url
+1905电影网,url
+漫威电影,url
+豆瓣电影,url
+刘德华电影,url
+成龙电影,url
+李连杰电影,url
+周星驰电影,url
+重温经典,url
+CHC影迷电影,url
+变形金刚,url
+哆啦A梦大雄与天空的理想乡,url
+哪咤之决战龙神,url
+星际穿越,url
+电影大卫贝肯倒霉特工熊,url
+铃芽之旅日语原声,url
+阿凡达水之道,url
+魔戒三部曲王者再临,url
+魔戒二部曲双城奇谋,url
+魔戒首部曲魔戒现身,url
+人在囧途,url
+拆弹专家1,url
+拆弹专家2,url
+龙门飞甲,url
+🔁周星星,url
+▶️铃芽之旅（日语原声）,url
+▶️铃芽之旅（普通话）,url
+▶️阿凡达：水之道,url
+▶️阿凡达：水之道（普通话）,url
+▶️(2024)哥斯拉大战金刚2：帝国崛起,url
+▶️(2024)异形寄生:起源,url
+▶️星际穿越,url
+▶️美国队长,url
+▶️变形金刚,url
+▶️毒液：致命守护者,url
+▶️魔戒首部曲：魔戒現身,url
+▶️魔戒二部曲：雙城奇謀,url
+▶️魔戒三部曲：王者再臨,url
+舌尖上的中国第1季,url
+舌尖上的中国第2季,url
+星爷喜剧经典(🚀),url
+①华语房✔原,url
+②星爷房✔原,url
+③粤语房✔原,url
+④欧美房✔原,url
+惊悚电影✔原,url
+粤语电影✔原,url
+华语影视✔原,url
+冰冰影厅✔原,url
+刀刀影院✔原,url
+奶虫影院✔原,url
+贝爷壹厅✔原,url
+贝爷贰厅✔原,url
+贝爷叁厅✔原,url
+凌儿影院✔原,url
+橙記港剧✔原,url
+古装神剧✔原,url
+酒染影视✔原,url
+芊珏影视✔原,url
+热门港剧✔原,url
+国产剧集✔原,url
+国产剧场✔原,url
+经典剧集✔原,url
+李卫当官✔原,url
+雍正帝王✔原,url
+电视剧①✔原,url
+电视剧②✔原,url
+女神60帧✔原,url
+花卷60帧✔原,url
+小宇60帧✔原,url
+贝爷MAX厅✔原,url
+贝爷①厅✔原,url
+贝爷②厅✔原,url
+邵氏影院,url
+粤语综艺,url
+吃米滴虫,url
+神乐影片,url
+特辑影院,url
+漫威影片,url
+刘德华电影1,url
+豆瓣高分,url
+贝爷影厅1,url
+贝爷影厅2,url
+可乐电影,url
+奶虫恐怖电影,url
+变种人电影,url
+华语电影,url
+冰冰经典,url
+XXXX影院,url
+恐怖惊悚,url
+电影剧场,url
+漫威主线1(🚀),url
+漫威主线2(🚀),url
+霍格沃茨(🚀),url
+欧美大片(🚀),url
+华语经典1(🚀),url
+华语经典2(🚀),url
+欧美电影(🚀),url
+科幻电影(🚀),url
+特辑电影(🚀),url
+蓉城电影(🚀),url
+HK港鬼片(🚀),url
+斗鱼1,url
+斗鱼2,url
+斗鱼3,url
+斗鱼4,url
+斗鱼5,url
+斗鱼6,url
+斗鱼7,url
+斗鱼8,url
+斗鱼9,url
+斗鱼电影HD3,url
+贝爷欧美①厅,url
+贝爷欧美②厅,url
+贝爷欧美IMAX厅,url
+粤语版电影1,url
+粤语版电影2,url
+喜羊羊与灰太狼,url
+宠物小精灵,url
+古天乐电影,url
+周星驰,url
+李连杰,url
+英叔,url
+发哥,url
+成龙,url
+沈腾,url
+强森,url
+甄子丹,url
+狄仁杰系列,url
+沈腾电影,url
+黄渤电影,url
+强森电影,url
+王晶电影,url
+金庸武侠,url
+功夫电影,url
+贺岁电影,url
+X战警电影,url
+九品芝麻官,url
+哈利波特全集,url
+人在囧途之囧妈,url
+无间道2,url
+欧美大片,url
+欧美大片1,url
+欧美大片2,url
+欧美大片3,url
+北京新闻,url
+清华大学电视台,url
+上海外语,url
+农林卫视,url
+生活时尚,url
+都市剧场,url
+七彩戏剧,url
+茶,url
+全纪实,url
+极速汽车,url
+新闻综合,url
+经济生活,url
+华数4K,url
+求索纪录,url
+求索科学,url
+求索生活,url
+求索动物,url
+第一财经,url
+澳亚卫视,url
+莲花卫视,url
+非凡新闻,url
+东森新闻,url
+东森财经,url
+美亚C+,url
+MOMOTV,url
+纬来日本,url
+纬来精采,url
+ABN China (720p),url
+Angel TV Chinese,url
+BBC News Asia Pacific (720p),url
+Bread TV面包台 (720p),url
+CNBC Asia HD (720p) [Geo-blocked],url
+EWTN Africa Asia (720p),url
+EWTN Asia-Pacific (720p) [Not 24/7],url
+Fusung News TV,url
+Nei Monggol TV,url
+Nei Monggol TV 2 Mongolian Culture Channel,url
+TVE Internacional Europe-Asia [Geo-blocked],url
+VOA美国之音,url
+CGTN (1080p),url
+CGTN Documentary (1080p),url
+RTHK32,url
+Fox新闻,url
+半·新闻,url
+法·时尚,url
+(年)MovieMusic欣赏,url
+(快)AMC音乐,url
+(乐)音乐欣赏,url
+Hakka_TV,url
+TiTV_原视,url
+动画_动漫,url
