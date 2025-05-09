@@ -12,10 +12,9 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套�
 https://gh.llkk.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://gh.llkk.cc/https://github.com/vbskycn/iptv/blob/master/tv/iptv4.m3u
 https://gh.llkk.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u
-
-#https://gh.llkk.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-#https://gh.llkk.cc/https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u
-#https://live.fanmingming.com/tv/m3u/ipv6.m3u
-#https://m3u.ibert.me/txt/o_cn.txt
-#https://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
-#https://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Migu.m3u
+https://gh.llkk.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://gh.llkk.cc/https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://m3u.ibert.me/txt/o_cn.txt
+https://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
+https://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Migu.m3u
