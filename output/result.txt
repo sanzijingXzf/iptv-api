@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-15 18:24:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-08-16 06:22:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -15,7 +15,7 @@ CCTV-2,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$订阅源
 CCTV-3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3$订阅源
-CCTV-3,http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8$订阅源
+CCTV-3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$订阅源
 CCTV-3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$订阅源
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际$订阅源
@@ -51,7 +51,7 @@ CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8$订阅源
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e$订阅源
 CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
-CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8$订阅源
+CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$订阅源
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教$订阅源
 CCTV-10,http://goo.bkpcp.top/mg/cctv10$订阅源
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$订阅源
@@ -75,7 +75,7 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8$订阅源
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
 CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8$订阅源
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
@@ -120,7 +120,7 @@ CCTV2,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/888888
 CCTV3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$订阅源
 CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3$订阅源
-CCTV3,http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8$订阅源
+CCTV3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$订阅源
 CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$订阅源
 CCTV4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
 CCTV4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际$订阅源
@@ -151,7 +151,7 @@ CCTV9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
 CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8$订阅源
 CCTV9,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e$订阅源
 CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
-CCTV9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8$订阅源
+CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$订阅源
 CCTV10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教$订阅源
 CCTV10,http://goo.bkpcp.top/mg/cctv10$订阅源
 CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$订阅源
@@ -175,7 +175,7 @@ CCTV13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8$订阅源
 CCTV14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
 CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
 CCTV15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8$订阅源
 CCTV15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
