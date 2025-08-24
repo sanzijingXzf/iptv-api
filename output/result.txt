@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-24 06:21:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-08-24 18:21:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -51,12 +51,12 @@ CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8$订阅源
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e$订阅源
 CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
-CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$订阅源
+CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8$订阅源
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教$订阅源
 CCTV-10,http://goo.bkpcp.top/mg/cctv10$订阅源
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$订阅源
 CCTV-10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd$订阅源
-CCTV-10,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225730/index.m3u8$订阅源
+CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$订阅源
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8$订阅源
 CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11$订阅源
@@ -151,12 +151,12 @@ CCTV9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
 CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8$订阅源
 CCTV9,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e$订阅源
 CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
-CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$订阅源
+CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8$订阅源
 CCTV10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教$订阅源
 CCTV10,http://goo.bkpcp.top/mg/cctv10$订阅源
 CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$订阅源
 CCTV10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd$订阅源
-CCTV10,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225730/index.m3u8$订阅源
+CCTV10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源
 CCTV11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$订阅源
 CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8$订阅源
 CCTV11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11$订阅源
