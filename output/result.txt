@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-27 18:23:30,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-08-28 06:20:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -16,7 +16,7 @@ CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$订阅源
 CCTV-3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3$订阅源
 CCTV-3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$订阅源
-CCTV-3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$订阅源
+CCTV-3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$订阅源
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际$订阅源
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$订阅源
@@ -121,7 +121,7 @@ CCTV3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$订阅源
 CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3$订阅源
 CCTV3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$订阅源
-CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$订阅源
+CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$订阅源
 CCTV4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
 CCTV4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际$订阅源
 CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$订阅源
