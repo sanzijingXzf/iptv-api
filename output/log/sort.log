@@ -1,4 +1,4 @@
-Name: CCTV-1, URL: http://php.jdshipin.com/TVOD/iptv.php?id=rthk33, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv1, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -10,7 +10,7 @@ Name: CCTV-1, URL: http://nas.suntao.online:35455/itv/6000000001000029752.m3u8?c
 Name: CCTV-1, URL: http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: http://lu.wqwqwq.sbs/itv/1000000005000265001.m3u8?cdn=ystenlive, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://yc.myds.me:35455/gaoma/cctv1.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://yc.myds.me:35455/itv/1000000005000265001.m3u8?cdn=ystenlive, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://goo.bkpcp.top/mg/CCTV2, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -21,7 +21,7 @@ Name: CCTV-2, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLT
 Name: CCTV-2, URL: http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://yc.myds.me:35455/gaoma/cctv2.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://yc.myds.me:35455/itv/1000000001000023315.m3u8?cdn=ystenlive, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv3, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -216,7 +216,7 @@ Name: CCTV-6, URL: http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/32212273
 Name: CCTV-6, URL: http://cdn.jdshipin.com:8880/ysp.php?id=cctv6, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-6, URL: http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-6, URL: http://yc.myds.me:35455/itv/6000000001000004574.m3u8?cdn=wasusyt, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV1, URL: http://php.jdshipin.com/TVOD/iptv.php?id=rthk33, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV1, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV1, URL: https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV1, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv1, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -228,7 +228,7 @@ Name: CCTV1, URL: http://nas.suntao.online:35455/itv/6000000001000029752.m3u8?cd
 Name: CCTV1, URL: http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV1, URL: http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV1, URL: http://lu.wqwqwq.sbs/itv/1000000005000265001.m3u8?cdn=ystenlive, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV1, URL: http://yc.myds.me:35455/gaoma/cctv1.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://yc.myds.me:35455/itv/1000000005000265001.m3u8?cdn=ystenlive, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV2, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV2, URL: http://goo.bkpcp.top/mg/CCTV2, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV2, URL: http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -239,7 +239,7 @@ Name: CCTV2, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV
 Name: CCTV2, URL: http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV2, URL: http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV2, URL: http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV2, URL: http://yc.myds.me:35455/gaoma/cctv2.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV2, URL: http://yc.myds.me:35455/itv/1000000001000023315.m3u8?cdn=ystenlive, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV3, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV3, URL: http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV3, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv3, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080

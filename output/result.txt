@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-09-06 18:21:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-09-07 06:18:35,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$订阅源
 CCTV-1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1$订阅源
@@ -107,7 +107,7 @@ CCTV-6,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/
 🪁动画频道,#genre#
 
 📺央视频道备用,#genre#
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源
 CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$订阅源
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1$订阅源
